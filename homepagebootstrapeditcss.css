@@ -1,0 +1,102 @@
+
+#social-buttons{
+	text-align:center; 
+	color:white;
+}
+.btn-twitter {
+	background-color: #00acee;
+	border-color: #009ad5;
+}
+.btn-facebook {
+	background-color: #4868ac;
+	border-color: #314776;
+}
+.btn-pinterest {
+	background-color: #b62f26;
+	border-color: #580b1c;
+}
+.book{
+	height:200px;
+	width:250px;
+	border-style: solid;
+	border-width: 7px;
+	border-color: white;
+}
+body{
+	background: linear-gradient(#3BB892, #13D69C);
+}
+
+.jumbotron{
+	background: grey;
+	background: linear-gradient to bottom right (#A6ABAB, #6E7070);
+	border: solid;
+	border-color: white;
+	padding-top: 35px;
+}
+.jumbotron h1{
+	margin: 0;
+	color: white;
+	font-family: 'Dancing Script', cursive;
+	font-size: 8em;
+	text-align:center;
+}
+.jumbotron header{
+	margin: 0;
+	color: white;
+	font-family: 'Dancing Script', cursive;
+	font-size: 4em;
+	text-align:center;
+}
+.jumbotron li{
+	margin: 0;
+	color: white;
+	font-family: 'Arial', cursive;
+	font-size: 3em;
+	text-align:center;
+}
+
+h1 {
+	margin: 0;
+	color: white;
+	font-family: 'Dancing Script', cursive;
+	font-size: 20em;
+	text-align:center;
+	padding-top: 35px;
+}
+
+header{
+	margin: 0;
+	color: white;
+	font-family: 'Dancing Script', cursive;
+	font-size: 6em;
+	text-align:center;
+}
+p {
+	color: white;
+	font-family: 'Dancing Script', cursive;
+	font-size: 6em;
+	margin: 0;
+}
+tr{
+	background-color: grey;
+	color:white;
+}
+table{
+      background-color:grey;
+      width: auto;
+      height: auto;
+	  border-style: solid;
+	  border-width: 3px;
+	  border-color: white;
+	  border-radius:25px;
+	  margin: 6px;
+	  font-family:'Arial', cursive;
+	  font-size: 2em;
+}
+td:hover, li:hover{
+	background-color: yellow;
+}
+
+li {
+	font-size: 4em;
+}

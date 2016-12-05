@@ -1,0 +1,82 @@
+<!DOCTYPE html> 
+<html>
+<head>
+
+  <title>Home Page Flow-chart Kitchen</title>
+
+  <link href='bootstrap-3.3.7-dist/css/bootstrap.css' rel='stylesheet'>
+  <link href='bootstrap-3.3.7-dist/css/main.css' rel='stylesheet'>'
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="homepagebootstrapeditcss.css">
+  <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+</head>
+
+<body>
+<div class=container>
+    <div class='row'>
+        <div class='col-sm-12'>
+            <div class='jumbotron'>
+                <img src='images/recipepicture.jpg' class="img-responsive img-circle pull-right book" alt="Responsive image">
+                <h1>Christina's Kitchen</h1>
+                <div class="clearfix"></div>
+            </div> 
+        </div>
+    </div>
+
+    <div class="row">
+        <div id="thisweek">
+        <div class='col-sm-8'>
+            <header>Top recipes for this week</header>
+                <div class = "table">
+                    <table class= "table">
+                        <tbody>
+                        <tr> 
+                            <th>1 course</th>
+                            <th>2 courses</th>
+                            <th>3 courses</th>
+                        </tr>
+                        <tr>
+                            <td> <a href= "recipieboot.html">Sunday Roast Chicken Dinner</a></td>
+                            <td> Wild Mushroom Paperdelle</td>
+                            <td> meal ideas</td>
+                        </tr>
+                        <tr>
+                            <td> meal ideas</td>
+                            <td> meal ideas</td>
+                            <td> meal ideas</td>
+                        </tr>
+                        <tr>
+                            <td> meal ideas</td>
+                            <td> meal ideas</td>
+                            <td> meal ideas</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+        </div>
+        </div>
+
+        <div class='col-sm-4'>
+            <div class = "personalise">
+            <div class = 'jumbotron'>
+               <header>Personalise</header>
+                   <ul>
+                    <li> favourites</li>
+                    <li> allergies</li>
+                    <li> vegan</li>
+                    </ul>
+                    <div class="clearfix"></div>
+            </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div id='social-buttons'>
+         <div class='col-sm-8'>
+            <button class='btn-lg btn-twitter'>Twitter</button>
+            <button class='btn-lg btn-facebook'>Facebook</button>
+            <button class='btn-lg btn-pinterest'>Pinterest</button>
+        </div>
+    </div>
+</div>
